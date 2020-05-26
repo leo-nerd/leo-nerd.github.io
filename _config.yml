@@ -1,11 +1,11 @@
 #------------------------------------------------------------------------------
 # General
 #------------------------------------------------------------------------------
-name: "Léonard Roussel"
+title: "Léonard Roussel"
 description: " "
 language: "en"
 
-url: http://localhost:4000
+url: http://leonardroussel.com
 baseurl: ''
 
 #------------------------------------------------------------------------------
@@ -29,7 +29,7 @@ permalink: /:title
 #------------------------------------------------------------------------------
 # Social sharing, comments and RSS.
 #------------------------------------------------------------------------------
-disqus-id: yourusername
+disqus-id:
 
 enable-share: true
 instagram: leo.nerd
