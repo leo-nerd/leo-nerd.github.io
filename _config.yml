@@ -29,9 +29,9 @@ permalink: /:title
 #------------------------------------------------------------------------------
 # Social sharing, comments and RSS.
 #------------------------------------------------------------------------------
-disqus-id:
+# disqus-id:
 
-enable-share: true
+enable-share: false
 instagram: leo.nerd
 github: leo-nerd
 soundcloud: leo_nerd
