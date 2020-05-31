@@ -4,7 +4,7 @@ layout: default
 <!-- <h1>projects</h1> -->
 <section class='main-content'>
 
-    {% for post in paginator.posts %}
+    {% for post in site.posts %}
         <article class='module color-3'>
             <header>
                 <!-- <span class='categories'>{{ post.categories | array_to_sentence_string }}</span> -->
@@ -19,11 +19,12 @@ layout: default
             </header>
             
             <p>{{ post.excerpt | strip_html | truncate: 250 }}</p>
+            <p><img src="{{post.image}}"></p>
                 
         </article>
     {% endfor %}
 
-    <div class='module pagination'>
+   <!--  <div class='module pagination'>
         {% if paginator.previous_page %}
             <a href='{{ site.url }}{{ paginator.previous_page_path }}' class='previous'>Previous</a>
         {% endif %}
@@ -35,7 +36,7 @@ layout: default
         {% if paginator.next_page %}
             <a href='{{ site.url }}{{ paginator.next_page_path }}' class='next'>Next</a>
         {% endif %}
-    </div>
+    </div> -->
 
 </section>
 

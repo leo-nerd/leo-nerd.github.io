@@ -22,9 +22,9 @@ kramdown:
 #------------------------------------------------------------------------------
 # Pagination and friendly URLs
 #------------------------------------------------------------------------------
-paginate: 2
-paginate_path: /page-:num
-permalink: /:title
+# paginate: 2
+# paginate_path: /page-:num
+# permalink: /:title
 
 #------------------------------------------------------------------------------
 # Social sharing, comments and RSS.
@@ -45,7 +45,7 @@ rss-show-full: false
 #------------------------------------------------------------------------------
 source: .
 destination: ./_site
-plugins: ['jekyll-paginate']
+# plugins: ['jekyll-paginate']
 
 sass:
     style: :compressed

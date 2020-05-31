@@ -195,6 +195,9 @@ nav {
 
 .main-content {
 
+    display: flex;
+    flex-flow: row wrap;
+
     float: right;
     padding: 0;
     width: 100% - $margin-width;
@@ -221,6 +224,8 @@ nav {
 
 
 article {
+
+    flex: 30%;
 
     h1 {
         color: #333;
