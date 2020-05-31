@@ -187,7 +187,8 @@ nav {
 
     img {
         height: auto;
-        max-width: 100%;
+        // max-width: 100%;
+        width: 100%;
     }
 
 }
@@ -219,13 +220,17 @@ nav {
         font-size: 0.9em;
         margin-right: 1em;
     }
+}
 
+.post-content { // inside a specific post
+    max-width: 100%;
 }
 
 
 article {
 
     flex: 30%;
+    max-width: 30%;
 
     h1 {
         color: #333;
@@ -419,16 +424,16 @@ table {
     
 
     a:hover, a:active { text-decoration: underline !important; }
-}
 
+}
 
 /* ------------------------------------------------------------------------
 -  Social share (end of the post). -
 -------------------------------------------------------------------------*/
 
 .social {
-    padding: 0 !important;
-    text-align: right;
+    // padding: 0 !important;
+    text-align: left;
 
     ul {
         list-style: none inside;
@@ -457,6 +462,12 @@ table {
     .gp { background: #c0392b; } .gp:hover { background: #e74c3c; }
     .li { background: #333333; } .li:hover { background: #444444; }
     .pi { background: #bd071d; } .pi:hover { background: #cd071d; }
+
+    img { // social logos
+        width: 20px;
+        // float: left;
+        // margin: 5px;
+    }
 }
 
 
@@ -591,13 +602,15 @@ div.awesomplete {
     }
 
     // .main-header .module { margin-left: 0; }
-    .main-content .module { margin-top: 0; }
+    .main-content .module { 
+        margin-top: 0; 
+    }
 
     // nav { text-align: center; }
     // nav br { display: none; }
     // nav a { margin: 0 0.75em; }
 
-    .social { text-align: center; }
+    // .social { text-align: center; }
     .social li { display: block; width: 100%; }
 
     pre, code { font-size: 1em !important; }

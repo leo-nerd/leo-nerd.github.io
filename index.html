@@ -18,8 +18,8 @@ layout: default
                 
             </header>
             
-            <p>{{ post.excerpt | strip_html | truncate: 250 }}</p>
             <p><img src="{{post.image}}"></p>
+            <p>{{ post.excerpt | strip_html | truncate: 250 }}</p>
                 
         </article>
     {% endfor %}
