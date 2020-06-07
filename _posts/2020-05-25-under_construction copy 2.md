@@ -3,7 +3,7 @@ layout: post
 title:  "WEBSITE UNDER CONSTRUCTION"
 date:   2020-05-25
 something: toto
-image: http://place-puppy.com/700x400
+image: http://place-puppy.com/700x700
 <!-- categories: jekyll -->
 ---
 
