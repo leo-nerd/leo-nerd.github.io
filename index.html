@@ -5,6 +5,7 @@ layout: default
 <section class='main-content'>
 
     {% for post in site.posts %}
+    <!-- <article-wrapper> -->
         <article class='module color-3'>
             <header>
                 <!-- <span class='categories'>{{ post.categories | array_to_sentence_string }}</span> -->
@@ -22,6 +23,7 @@ layout: default
             <p>{{ post.excerpt | strip_html | truncate: 250 }}</p>
                 
         </article>
+    <!-- </article-wrapper> -->
     {% endfor %}
 
    <!--  <div class='module pagination'>
