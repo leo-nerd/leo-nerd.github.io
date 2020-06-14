@@ -27,18 +27,14 @@ kramdown:
 # permalink: /:title
 
 #------------------------------------------------------------------------------
-# Social sharing, comments and RSS.
+# Social
 #------------------------------------------------------------------------------
-# disqus-id:
 
 enable-share: false
 instagram: leo.nerd
 github: leo-nerd
 soundcloud: leo_nerd
 mixcloud: leo_nerd
-
-rss-feed-limit: 10
-rss-show-full: false
 
 #------------------------------------------------------------------------------
 # Configuration, plugins, gems, etc..

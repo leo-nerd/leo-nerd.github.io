@@ -18,6 +18,7 @@ $color-3: #ffffff80; /* Modules background */
 $color-4: #7f8c8d; /* Main menu background */
 
 $margin-width: 25%;
+$max-margin: 240px;
 
 $font-stack: "DM Mono", "Open Sans", sans-serif;
 $font-size: 16px;
@@ -79,9 +80,9 @@ header {
 }
 
 article {
-    padding: 21px !important;
+    // padding: 21px !important;
     // padding: 8px !important;
-    padding-top: 8px !important;
+    // padding-top: 8px !important;
     margin: 0;
 }
 
@@ -135,8 +136,10 @@ nav {
     font-weight: 300;
     line-height: 1.7;
     text-align: left;
-    width: $margin-width;
+    width: min(#{$margin-width}, #{$max-margin});
+    min-width: 240px;
     position: fixed;
+    // padding: 21px;
 
 
     h1, h2 {
@@ -182,7 +185,9 @@ nav {
 .module {
     color: #212121;
     margin: 0.5em;
-    padding: 0.5em;
+    padding: 1em;
+    // padding-left: 21px;
+    // padding-top
     position: relative;
 
     img {
@@ -204,10 +209,14 @@ nav {
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     grid-gap: 10px;
 
-    float: right;
+    // float: right;
     padding: 0;
+
     width: 100% - $margin-width;
+    // margin-left: min(#{$margin-width}, #{$max-margin});
+    margin-left: $max-margin;
     margin-top: 0 !important;
+
 
     a, a:visited {
         color: $color-1;
@@ -223,13 +232,15 @@ nav {
     .module {
         // border-bottom: 2px solid #b1b1b1;
         font-size: 0.9em;
-        margin-right: 1em;
+        // margin-right: 1em;
     }
 }
 
 .post-content { // inside a specific post
-    float:right;
-    width: 100% - $margin-width;
+    // float:right;
+    // width: 100% - $margin-width;
+    max-width: 800px;
+    margin-left: min(#{$margin-width}, #{$max-margin});
 
 }
 
@@ -613,6 +624,7 @@ div.awesomplete {
     .post-content {
         // padding: 0.75em;
         width: 100%;
+        margin-left: 0%;
 
         // .title { margin-top: 0 !important; }
     }
