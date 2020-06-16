@@ -7,19 +7,19 @@ layout: default
     {% for post in site.posts %}
     <!-- <article-wrapper> -->
         <article class='module color-3'>
-            <header>
-                <!-- <span class='categories'>{{ post.categories | array_to_sentence_string }}</span> -->
-                
-                <h2>
-                    <a href='{{ fullUrl }}{{ post.url }}' title='{{ post.title }}'>
-                        {{ post.title }}
-                    </a>
-                </h2>
-                
-                
+            <a href='{{ fullUrl }}{{ post.url }}' title='{{ post.title }}'>
+            <header class="tile">
+                <img src="{{post.image}}">
+                <div class="tile-text">
+                    <p>{{post.placedate}}</p>
+                    <p class="description">{{post.description}}</p>
+                    <!-- <p>{{post.description}}</p> -->
+                </div>
             </header>
+            {{post.title}}
+            </a>
             
-            <p><img src="{{post.image}}"></p>
+            <!-- <p></p> -->
             <!-- <p>{{ post.excerpt | strip_html | truncate: 250 }}</p> -->
                 
         </article>

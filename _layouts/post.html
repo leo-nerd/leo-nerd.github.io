@@ -1,23 +1,22 @@
 ---
 layout: default
----
-
-<div id='top' class="post-content">
+---                                
+<div class="post-content">
+    <a name="top"></a>
    
     <article class="module">
-       
-        <h1>{{ page.title }}{{ page.shortUrl }}</h1>
-        <div class='separator'></div>
-        
-        {{ content }}
-        
-        <!-- <p class="top"><small><a href="#top">[top]</a></small></p> -->
-        
-    </article>
-    
-    {% if site.enable-share %} {% include share.html %} {% endif %}
-    {% if site.disqus-id %} {% include comments.html %} {% endif %}
+        <!-- <h1>{{ page.title }}</h1> -->
+        <h1 style="font-style: italic">{{page.title}}</h1>
 
+        <p class="placedate">{{page.placedate}}</p>
+        <p class="roles">{{page.roles}}</p>
+        <p class="description">{{page.description}}</p>
+
+        {{ content }}
+
+<p><a href="#top">Back to top</a></p>
+        <!-- <p class="top"><small><a href="#top">[top]</a></small></p> -->
+    </article>
 </div>
 
 
