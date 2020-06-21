@@ -6,7 +6,7 @@ layout: default
 
     {% for post in site.posts %}
     <!-- <article-wrapper> -->
-        <article class='module color-3'>
+        <article class='module'>
             <a href='{{ fullUrl }}{{ post.url }}' title='{{ post.title }}'>
             <header class="tile">
                 <img src="{{post.image}}">
@@ -39,7 +39,6 @@ layout: default
             <a href='{{ site.url }}{{ paginator.next_page_path }}' class='next'>Next</a>
         {% endif %}
     </div> -->
-
 </section>
 
 

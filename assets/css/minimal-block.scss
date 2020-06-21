@@ -136,7 +136,7 @@ nav {
 .main-header {
     float: left;
     font-weight: 300;
-    line-height: 1.7;
+    line-height: 2.5em;
     text-align: left;
     width: min(#{$margin-width}, #{$max-margin});
     min-width: 240px;
@@ -252,7 +252,7 @@ nav {
 
     .tile-text {
         p {
-            overflow: hidden;
+            text-overflow: hidden;
         }
         position: absolute;
         top: 0;
@@ -276,6 +276,9 @@ nav {
     max-width: 800px;
     // width: 100% - $margin-width;
     margin-left: $max-margin;
+    border-left: 1px solid black;
+    padding-left: 2em;
+    // padding-right: 2em;
 
 }
 
@@ -694,8 +697,14 @@ div.awesomplete {
         // padding: 0.75em;
         width: 100%;
         margin-left: 0%;
+        border-left: none;
+        padding-left: inherit;
 
         // .title { margin-s: 0 !important; }
+    }
+
+    .main-header {
+        border-bottom: 1px solid black;
     }
 
     // .main-header .module { margin-left: 0; }
