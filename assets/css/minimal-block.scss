@@ -73,6 +73,8 @@ a {
 
 }
 
+i { font-style: italic; }
+
 a:hover {
     font-style: italic;
 }
@@ -393,7 +395,14 @@ article {
     margin: 0.5em 0;
 }
 
+.inline-descr {
+    font-size: 0.6em;
+}
 
+.arupProjTitle{
+    margin-top: 3em;
+    margin-bottom: 0.4em;
+}
 
 /* ------------------------------------------------------------------------
 -  Blockquote, code, pre, tables. -
