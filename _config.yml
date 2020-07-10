@@ -6,7 +6,7 @@ description: "not a web developer."
 language: "en"
 
 url: https://leonardroussel.com
-baseurl: ''
+baseurl: 
 
 #------------------------------------------------------------------------------
 # Markdown processor and code highlighting

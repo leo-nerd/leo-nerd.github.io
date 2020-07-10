@@ -10,7 +10,7 @@ roles: Sound designer, performer
 description: Generative audio and video performance
 ---
 
-<p>Sound performance with my long-time friend Olivier Hénaff. At the time he was a computational neuroscience PhD student at NYU and I was an acoustic engineering intern. The performance used recorded and synthesized sound textures as Moiré-inspired projected visuals were generated in response.</p>
+<p>Sound performance with my long-time friend <a href="https://www.olivierhenaff.com/">Olivier Hénaff</a>. At the time he was a computational neuroscience PhD student at NYU and I was an acoustic engineering intern. The performance used recorded and synthesized sound textures as Moiré-inspired projected visuals were generated in response.</p>
 
 <p><b>Hardware:</b> {{page.hardware}}<br/>
 <b>Software:</b> {{page.software}}</p>
