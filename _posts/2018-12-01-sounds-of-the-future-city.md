@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sounds Of The Future City
-image: "/assets/projects/ch/ch_1.JPG"
+image: "/assets/projects/ch/ch_1.jpg"
 categories: [Logic]
 placedate: New York, 2018"
 hardware: Loudspeaker array, computer
@@ -18,5 +18,5 @@ The piece lead to a hands-on family workshop a couple months later where partici
 <p><b>Hardware:</b> {{page.hardware}}<br/>
 <b>Software:</b> {{page.software}}</p>
 
-<p><img src="/assets/projects/ch/AudienceMembersParty.JPG"></p>
+<p><img src="/assets/projects/ch/AudienceMembersParty.jpg"></p>
 <p class="inline-descr">Photo: Scott Rudd</p>
