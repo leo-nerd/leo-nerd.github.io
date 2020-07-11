@@ -7,6 +7,7 @@ language: "en"
 
 url: https://leonardroussel.com
 baseurl: 
+permalink: /:slug
 
 #------------------------------------------------------------------------------
 # Markdown processor and code highlighting
