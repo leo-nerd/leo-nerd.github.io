@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Kryptoflex
-image: "/assets/projects/kryptoflex/krypto_1.jpg"
+image: "/assets/projects/kryptoflex/krypto_1_s.jpg"
 categories: [Processing]
 placedate: "New York, 2014"
 hardware: MIDI controllers, custom LED fixture, Arduino, computer

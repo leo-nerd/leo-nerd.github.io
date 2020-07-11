@@ -2,7 +2,7 @@
 layout: post_noDate
 title:  Various Arup projects
 description: A selection of projects I worked on during my time at Arup in Amsterdam and New York
-image: "/assets/projects/arup/tiara.jpg"
+image: "/assets/projects/arup/tiara_s.jpg"
 categories: [various]
 placedate: "2015 — 2020"
 ---

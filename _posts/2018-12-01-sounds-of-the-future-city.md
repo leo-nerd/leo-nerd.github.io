@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  Sounds Of The Future City
-image: "/assets/projects/ch/ch_1.jpg"
+image: "/assets/projects/ch/ch_1_s.jpg"
 categories: [Logic]
-placedate: New York, 2018"
+placedate: New York, 2018
 hardware: Loudspeaker array, computer
 software: Spat Revolution, Max/MSP, Logic, Massive
 roles: Sound designer, audio system designer, creative developer, installation coordinator

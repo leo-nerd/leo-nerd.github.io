@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  Street Score
-image: "/assets/projects/streetscore/streetscore_3.jpg"
+image: "/assets/projects/streetscore/streetscore_3_s.jpg"
 categories: [Logic, Max/MSP]
 placedate: "Lyon, 2013"
 hardware: Custom motorized fabric fixtures, LED lighting fixtures, loudspeaker array, computer
 software: Logic, Pure Data
 roles: Sound designer, audio system designer, design engineer, installation coordinator
-description: Site-specific light and sound activation of Passage Thiaffait.
+description: Site-specific light and sound activation of Passage Thiaffait
 ---
 
 <p>This installation is centered around the idea of repetition of sequences and machine-generated patterns. As a response to Lyon’s historically thriving textile industry, the piece is an activation of Passage Thiaffait, a transitional courtyard-like public space, and features twelve custom fixtures emitting light through revolving strips of perforated textile to project complex patterns sequences on the ground. An array of loudspeakers projects a multichannel sound component that is also machine generated.</p>

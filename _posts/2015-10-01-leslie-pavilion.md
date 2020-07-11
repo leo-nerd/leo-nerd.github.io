@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Leslie Pavilion
-image: "/assets/projects/leslie/leslie_1.jpg"
+image: "/assets/projects/leslie/leslie_1_s.jpg"
 categories: [Max/MSP]
 placedate: "Amsterdam, 2015"
 hardware: Custom wood reflector and steerable line-array loudspeaker assemblies, computer

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Collective Om
-image: "/assets/projects/om/om_1.jpg"
+image: "/assets/projects/om/om_1_s.jpg"
 categories: [Max/MSP]
 placedate: "New York, 2017"
 hardware: Loudspeaker array, computer

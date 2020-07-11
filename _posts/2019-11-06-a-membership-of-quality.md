@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  A Membership of Quality
-image: "/assets/projects/a30/a30_3.jpg"
+image: "/assets/projects/a30/a30_3_s.jpg"
 categories: [Processing]
 placedate: New York, 2019
 hardware: Projection system, computer
@@ -19,7 +19,12 @@ description: Data-driven generative video projection
 
 <div class="video-container" style="padding:22.84% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/436993682?autoplay=1&loop=1&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-<p><img src="{{ page.image }}"></p>
-<p><img src="/assets/projects/a30/a30_2.jpg"></p>
+<p><img 
+	src="/assets/projects/a30/a30_3.jpg"
+	alt="A Membership of Quality video wall"></p>
+
+<p><img 
+	src="/assets/projects/a30/a30_2.jpg"
+	alt="A Membership of Quality video wall"></p>
 
 <p class="inline-descr">Photos, video: Arup</p>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Radio Voices
-image: "/assets/projects/radiovoices/rv_1.jpg"
+image: "/assets/projects/radiovoices/rv_0_s.jpg"
 categories: [Max/MSP]
 placedate: New York, 2019
 hardware: Digital camera, MIDI controller, computer
@@ -26,4 +26,4 @@ description: Music and dance performance with live generative visuals and surrou
 
 <p class="inline-descr">Photos: Barry Mayo, Raj Patel</p>
 
-<p><a href="https://github.com/leo-nerd/Radio-Voices-visuals">Generative video source code on GitHub</a>
+<p><a href="https://github.com/leo-nerd/Radio-Voices-visuals">Source code on GitHub</a>

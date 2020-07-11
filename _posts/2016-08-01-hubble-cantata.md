@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Hubble Cantata
-image: "/assets/projects/hubble/hubble_1.jpg"
+image: "/assets/projects/hubble/hubble_1_s.jpg"
 categories: [Max/MSP]
 placedate: "New York, 2016"
 hardware: Loudspeaker array, computer

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  großer Lauscher
-image: "/assets/projects/gl/gl_1.jpg"
+image: "/assets/projects/gl/gl_1_s.jpg"
 categories: [Max/MSP]
 placedate: "New York, 2017"
 hardware: Loudspeaker array, computer

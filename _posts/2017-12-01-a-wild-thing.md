@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  A Wild Thing
-image: "/assets/projects/mvs/Picture1.jpg"
+image: "/assets/projects/mvs/Picture1_s.jpg"
 categories: [Max/MSP]
 placedate: "Miami, 2017"
 hardware: Hyperdirectional loudspeakers, surface audio transducers, cameras, Raspberry Pis, computer
