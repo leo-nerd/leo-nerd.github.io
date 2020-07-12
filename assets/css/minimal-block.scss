@@ -59,9 +59,10 @@ $font-size: 16px;
 
 
 html, body {
-    background: $color-0;
+    // background: $color-0;
     font: $font-size $font-stack;
     margin: 0;
+    height: 100%;
 }
 
 a {
@@ -325,7 +326,7 @@ article {
         margin-top: 1.5em;
         font-weight: 300;
         // margin: 0.5em 0 !important;
-        margin-bottom: 1.5em;
+        // margin-bottom: 1.5em;
         line-height: 2em;
         // margin-top: 2em;
     }
@@ -382,11 +383,13 @@ article {
 
     .placedate {
         // color: lightgrey;
-        margin-bottom: 2em;
+        margin-bottom: 1em;
+        font-style: italic;
+        // font-size: 0.6em;
     }
 
     .roles {
-        color: lightgrey;
+        // color: lightgrey;
         font-style: italic;
         margin-bottom: 2em;
     }
@@ -400,9 +403,19 @@ article {
     }
 
     .description {
-        font-weight: 900;
+        font-style: italic;
+        // font-weight: 900;
     }
 
+    .project-narrative, .project-media {
+    margin-top: 5em;
+    }
+
+    .project-specifics { 
+        @extend .project-narrative;
+        p {
+            margin-bottom: 0.4em; }
+        }
 }
 
 
