@@ -4,7 +4,7 @@ title:  Sounds Of The Future City
 image: "/assets/projects/ch/ch_1_s.jpg"
 categories: [Logic]
 placedate: New York, 2018
-hardware: Loudspeaker array, computer
+hardware: Multichannel audio system, computer
 software: Spat Revolution, Max/MSP, Logic, Massive
 roles: Sound designer, audio system designer, creative developer, installation coordinator
 description: Speculative video piece with multichannel audio
@@ -21,5 +21,6 @@ The piece lead to a hands-on family workshop a couple months later where partici
 
 <div class="project-media">
 <p><img src="/assets/projects/ch/AudienceMembersParty.jpg"></p>
+<div class="video-container"><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/438211417?byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div></div>
 <p class="inline-descr">Photo: Scott Rudd</p>
 </div>

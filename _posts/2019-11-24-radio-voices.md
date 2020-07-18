@@ -4,7 +4,7 @@ title:  Radio Voices
 image: "/assets/projects/radiovoices/rv_0_s.jpg"
 categories: [Max/MSP]
 placedate: New York, 2019
-hardware: Digital camera, MIDI controller, computer
+hardware: Digital camera, MIDI controller, computer, performance surround audio and video system.
 software: Max/MSP + Jitter, Processing, After Effects, Enscape
 roles: Creative developer, animator, video editor, live video operator, producer
 description: Music and dance performance with live generative visuals and surround sound

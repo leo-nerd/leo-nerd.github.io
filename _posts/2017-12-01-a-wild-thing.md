@@ -6,7 +6,7 @@ categories: [Max/MSP]
 placedate: "Miami, 2017"
 hardware: Hyperdirectional loudspeakers, surface audio transducers, cameras, Raspberry Pis, computer
 software: Python, Max/MSP
-roles: Audio system designer, video sensing system designer, sound designer, creative developer.
+roles: Audio system designer, video tracking system designer, sound designer, creative developer.
 description: Immersive home replica augmented with audio
 ---
 
@@ -20,5 +20,6 @@ description: Immersive home replica augmented with audio
 <p><img src="/assets/projects/mvs/Picture1.jpg"></p>
 <p><img src="/assets/projects/mvs/mvs_2.jpg"></p>
 <p><img src="/assets/projects/mvs/Picture2.jpg"><span class="inline-descr">Photo: Airbnb</span></p>
+<p><img src="/assets/projects/mvs/mvs_comp.jpg"></p>
 <p><img src="/assets/projects/mvs/mvs_3.png"></p>
 </div>

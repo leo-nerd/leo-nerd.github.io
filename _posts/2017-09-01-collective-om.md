@@ -4,7 +4,7 @@ title:  Collective Om
 image: "/assets/projects/om/om_1_s.jpg"
 categories: [Max/MSP]
 placedate: "New York, 2017"
-hardware: Loudspeaker array, computer
+hardware: Multichannel audio system, computer
 software: Max/MSP + Spat~
 roles: Sound designer, installation coordinator
 description: Spatial audio composition

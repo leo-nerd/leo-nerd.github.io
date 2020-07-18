@@ -4,7 +4,7 @@ title:  The Hubble Cantata
 image: "/assets/projects/hubble/hubble_1_s.jpg"
 categories: [Max/MSP]
 placedate: "New York, 2016"
-hardware: Loudspeaker array, computer
+hardware: Multichannel audio system, computer
 software: Max/MSP + Spat~, Logic, Massive
 roles: Sound designer
 description: Spatial audio composition

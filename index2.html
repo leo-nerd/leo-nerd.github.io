@@ -3,31 +3,29 @@ layout: default
 ---
 <!-- <h1>projects</h1> -->
 <section class='main-content'>
-
-    {% for post in site.posts %}
-    <!-- <article-wrapper> -->
-        <article class='module'>
-            <a href='{{ fullUrl }}{{ post.url }}' title='{{ post.title }}'>
-            <header class="tile">
-                <img src="{{post.image}}">
-                <div class="tile-text">
-                    <!-- <p>{{post.placedate}}</p> -->
-                    <p class="description">{{post.description}}</p>
-                    <!-- <p>{{post.description}}</p> -->
-                </div>
-            </header>
-            {{post.title}}<br/>
-            <span style="font-weight: 100; font-size: 0.8em;">{{post.placedate}}</span>
-            </a>
-            
-            <!-- <p></p> -->
-            <!-- <p>{{ post.excerpt | strip_html | truncate: 250 }}</p> -->
+        {% for post in site.posts %}
+        <!-- <article-wrapper> -->
+            <article class='module'>
+                <a href='{{ fullUrl }}{{ post.url }}' title='{{ post.title }}'>
+                <header class="tile">
+                    <img src="{{post.image}}">
+                    <div class="tile-text">
+                        <!-- <p>{{post.placedate}}</p> -->
+                        <p class="description">{{post.description}}</p>
+                        <!-- <p>{{post.description}}</p> -->
+                    </div>
+                </header>
+                {{post.title}}<br/>
+                <span style="font-weight: 100; font-size: 0.8em;">{{post.placedate}}</span>
+                </a>
                 
-        </article>
-    <!-- </article-wrapper> -->
-    {% endfor %}
-
-   <!--  <div class='module pagination'>
+                <!-- <p></p> -->
+                <!-- <p>{{ post.excerpt | strip_html | truncate: 250 }}</p> -->
+                    
+            </article>
+        <!-- </article-wrapper> -->
+        {% endfor %}
+    <!-- <div class='module pagination'>
         {% if paginator.previous_page %}
             <a href='{{ site.url }}{{ paginator.previous_page_path }}' class='previous'>Previous</a>
         {% endif %}

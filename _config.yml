@@ -2,7 +2,7 @@
 # General
 #------------------------------------------------------------------------------
 title: "Léonard Roussel"
-description: "not a web developer."
+description: "Multimedia & interaction"
 language: "en"
 
 url: https://leonardroussel.com
@@ -23,7 +23,7 @@ kramdown:
 #------------------------------------------------------------------------------
 # Pagination and friendly URLs
 #------------------------------------------------------------------------------
-# paginate: 2
+# paginate: 6
 # paginate_path: /page-:num
 # permalink: /:title
 
@@ -42,7 +42,7 @@ mixcloud: leo_nerd
 #------------------------------------------------------------------------------
 source: .
 destination: ./_site
-# plugins: ['jekyll-paginate']
+plugins: ['jekyll-paginate']
 plugins: ['jekyll-target-blank']
 
 sass:

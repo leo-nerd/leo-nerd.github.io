@@ -4,7 +4,7 @@ title:  Salesforce towers lobby soundscapes
 image: "/assets/projects/sf/Picture1 cover.jpg"
 categories: [Logic]
 placedate: New York & San Francisco, 2018
-hardware: Loudspeaker array, projection system, computer
+hardware: Multichannel audio system, projection system, computer
 software: Spat Revolution
 roles: Sound designer
 description: Immersive audio compositions

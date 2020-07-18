@@ -4,7 +4,7 @@ title:  Street Score
 image: "/assets/projects/streetscore/streetscore_3_s.jpg"
 categories: [Logic, Max/MSP]
 placedate: "Lyon, 2013"
-hardware: Custom motorized fabric fixtures, LED lighting fixtures, loudspeaker array, computer
+hardware: Custom motorized fabric fixtures, LED lighting fixtures, multichannel audio system, computer
 software: Logic, Pure Data
 roles: Sound designer, audio system designer, design engineer, installation coordinator
 description: Site-specific light and sound activation of Passage Thiaffait

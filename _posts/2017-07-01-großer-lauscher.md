@@ -4,7 +4,7 @@ title:  großer Lauscher
 image: "/assets/projects/gl/gl_1_s.jpg"
 categories: [Max/MSP]
 placedate: "New York, 2017"
-hardware: Loudspeaker array, computer
+hardware: Multichannel audio system, computer
 software: Max/MSP + Spat~
 roles: Sound designer, audio system designer
 description: Spatial audio composition
