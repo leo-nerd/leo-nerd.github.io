@@ -1,0 +1,78 @@
+---
+layout: defaultWUC
+---
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div>
+    <a-scene physics>
+      <!-- <a-entity raycaster="objects: .clickable" cursor="rayOrigin: mouse"></a-entity> -->
+      <!-- <a-assets>
+        <audio id="sound1" src="data/sound1.mp3"></audio>
+        <audio id="sound2" src="data/sound2.mp3"></audio>
+      </a-assets> -->
+      <a-assets>
+        <img id="W" crossorigin="anonymous" src="./assets/cubes/W.png">
+        <img id="E" crossorigin="anonymous" src="./assets/cubes/E.png">
+        <img id="B" crossorigin="anonymous" src="./assets/cubes/B.png">
+        <img id="S" crossorigin="anonymous" src="./assets/cubes/S.png">
+        <img id="I" crossorigin="anonymous" src="./assets/cubes/I.png">
+        <img id="T" crossorigin="anonymous" src="./assets/cubes/T.png">
+        <img id="E" crossorigin="anonymous" src="./assets/cubes/E.png">
+        <img id="U" crossorigin="anonymous" src="./assets/cubes/U.png">
+        <img id="N" crossorigin="anonymous" src="./assets/cubes/N.png">
+        <img id="D" crossorigin="anonymous" src="./assets/cubes/D.png">
+        <img id="E2" crossorigin="anonymous" src="./assets/cubes/E2.png">
+        <img id="R" crossorigin="anonymous" src="./assets/cubes/R.png">
+        <img id="C" crossorigin="anonymous" src="./assets/cubes/C.png">
+        <img id="O" crossorigin="anonymous" src="./assets/cubes/O.png">
+        <img id="N2" crossorigin="anonymous" src="./assets/cubes/N2.png">
+        <img id="S2" crossorigin="anonymous" src="./assets/cubes/S2.png">
+        <img id="T2" crossorigin="anonymous" src="./assets/cubes/T2.png">
+        <img id="R2" crossorigin="anonymous" src="./assets/cubes/R2.png">
+        <img id="U2" crossorigin="anonymous" src="./assets/cubes/U2.png">
+        <img id="C2" crossorigin="anonymous" src="./assets/cubes/C2.png">
+        <img id="T3" crossorigin="anonymous" src="./assets/cubes/T3.png">
+        <img id="I2" crossorigin="anonymous" src="./assets/cubes/I2.png">
+        <img id="O2" crossorigin="anonymous" src="./assets/cubes/O2.png">
+        <img id="N3" crossorigin="anonymous" src="./assets/cubes/N3.png">
+      </a-assets>
+      <a-entity id="rig"  movement-controls position="8 1.6 10" rotation ="0 15 0">
+        <a-entity id="camera" twoway-motion="nonMobileLoad: false; speed: 200; threshold: -30" camera position="0 0 0"look-controls wasd-controls="acceleration:200">
+          <!-- <a-entity cursor="rayOrigin: mouse"></a-entity> -->
+        </a-entity>
+      </a-entity>
+      <a-plane static-body color="yellow" height="10" width="30" rotation="-90 0 0" position="0 0 0"></a-plane>
+      <!-- <a-sphere dynamic-body color="tomato" position = "2 1.6 -1"></a-sphere> -->
+      <!-- <a-sphere dynamic-body color="pink" position = "0 4 0.1"></a-sphere> -->
+      <a-box scale="2 2 2" dynamic-body position= "-4 29 0" material="src:#W; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "-2 26 0" material="src:#E; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "0 22 0" material="src:#B; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "2 39 0" material="src:#S; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "4 25 0" material="src:#I; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "6 22 0" material="src:#T; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "8 20 0" material="src:#E; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "-4 18 0" material="src:#U; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "-2 15 0" material="src:#N; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "0 14 0" material="src:#D; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "2 16 0" material="src:#E2; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "4 12 0" material="src:#R; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "-10 10 0" material="src:#C; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "-8 6 0" material="src:#O; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "-6 2 1" material="src:#N2; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "-4 12 0" material="src:#S2; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "-2 10 0" material="src:#T2; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "0 8 0" material="src:#R2; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "2 7 0" material="src:#U2; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "4 4 0" material="src:#C2; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "6 2 0" material="src:#T3; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "8 8 0" material="src:#I2; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "10 6 0" material="src:#O2; transparent:true; opacity:0.8"></a-box>
+      <a-box scale="2 2 2" dynamic-body position= "12 3 0" material="src:#N3; transparent:true; opacity:0.8"></a-box>
+    </a-scene>
+  </div>
+  </body>
+</html>
