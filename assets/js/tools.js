@@ -38,7 +38,6 @@ function noWidow() {
             "theater play", 
             "movie script",
             "haircut",
-            "chair",
             "installation",
             "piece",
             "boyfriend",
