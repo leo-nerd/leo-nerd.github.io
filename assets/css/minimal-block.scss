@@ -780,7 +780,10 @@ div.awesomplete {
 -------------------------------------------------------------------------*/
 
 @media (max-width: 850px) {
+    * {
+        text-size-adjust: 100%;
 
+    }
     // body { font-size: large; }
     body
     .main-header{ 
