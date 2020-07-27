@@ -121,6 +121,10 @@ p { line-height: 1.5em; }
 .top { text-align: right; }
 .inside { padding-left: 15px; }
 
+canvas {
+    position: fixed !important;
+}
+
 /* ------------------------------------------------------------------------
 -  The navigation. Main menu and article links. -
 -------------------------------------------------------------------------*/
@@ -316,14 +320,16 @@ form {
 
 .tile {
     position: relative;
-
+    background: #ffffffad;
     img {
         vertical-align: middle;
+        overflow: hidden;
     }
 
     .tile-text {
         p {
             text-overflow: hidden;
+            // color: white;
         }
         position: absolute;
         top: 0;
@@ -336,9 +342,15 @@ form {
 .tile:hover {
     box-shadow: inset 5px 5px black, inset -5px -5px black;
     
-    img { opacity:0; }
+    img {
+        opacity:0;
+        // filter: blur(1em);
+        // overflow: hidden;
+    }
 
-    .tile-text { opacity:1; }
+    .tile-text { 
+        opacity:1;
+    }
 }
 
 .post-content { // inside a specific post
