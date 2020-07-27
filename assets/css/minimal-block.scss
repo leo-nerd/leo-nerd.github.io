@@ -356,13 +356,18 @@ form {
 .post-content { // inside a specific post
     // float:right;
     // width: 100% - $margin-width;
-    max-width: 800px;
+    background: #ffffffab;
     // width: 100% - $margin-width;
     margin-left: $max-margin;
     border-left: 1px solid black;
     padding-left: 2em;
     padding-bottom: 5em;
     // padding-right: 2em;
+
+}
+
+.text-constraint{
+    max-width: 800px;
 
 }
 
