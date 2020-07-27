@@ -36,7 +36,6 @@ $font-size: 16px;
     margin: 0;
 }
 
-
 /* ------------------------------------------------------------------------
 -  Main background colors. -
 -------------------------------------------------------------------------*/
@@ -356,7 +355,7 @@ form {
 .post-content { // inside a specific post
     // float:right;
     // width: 100% - $margin-width;
-    background: #ffffffab;
+    // background: #ffffffab;
     // width: 100% - $margin-width;
     margin-left: $max-margin;
     border-left: 1px solid black;
@@ -812,7 +811,7 @@ div.awesomplete {
     .post-content {
         // padding: 0.75em;
         // z-index: -1 !important;
-        background: #ffffffab;
+        // background: #ffffffab;
         width: 100%;
         margin-left: 0%;
         border-left: none;

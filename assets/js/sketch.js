@@ -26,7 +26,7 @@ function setup() {
 			// noiseVal *= 255;
 			alphaVal *= 255;
 			// stroke(255, 255, 255, alphaVal);
-			stroke(0, 0, 0, alphaVal);
+			stroke(100, 100, 100, alphaVal);
 			// stroke(255*(1-alphaVal));
 			point(x, y);
 		}		
@@ -45,7 +45,7 @@ function update(noiseZ) {
 			// noiseVal *= 255;
 			alphaVal *= 255;
 			// stroke(255, 255, 255, alphaVal);
-			stroke(0, 0, 0, alphaVal);
+			stroke(100, 100, 100, alphaVal);
 			// stroke(255*(1-alphaVal));
 			point(x, y);
 		}
