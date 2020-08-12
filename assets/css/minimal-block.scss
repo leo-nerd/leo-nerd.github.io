@@ -365,6 +365,10 @@ form {
 
 }
 
+canvas {
+    z-index: -1;
+}
+
 .text-constraint{
     max-width: 800px;
 
