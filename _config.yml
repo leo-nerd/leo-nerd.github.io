@@ -43,7 +43,6 @@ mixcloud: leo_nerd
 source: .
 destination: ./_site
 plugins: ['jekyll-paginate']
-plugins: ['jekyll-target-blank']
 
 sass:
     style: :compressed
