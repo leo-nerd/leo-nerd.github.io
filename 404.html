@@ -1,43 +1,29 @@
 ---
-layout: default
+layout: defaultWUC
 title: 404 - Wrong way!
 ---
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <!-- <meta name="apple-mobile-web-app-capable" content="yes"> -->
-    <title>404 - Wrong way!</title>
-    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
-    <!-- <script src="https://unpkg.com/aframe-extras@3.3.0/dist/aframe-extras.min.js"></script> -->
-    <script src="./assets/js/twoway-motion.js"></script>
-    <script src="//cdn.rawgit.com/donmccurdy/aframe-physics-system/v4.0.1/dist/aframe-physics-system.min.js"></script>
-  </head>
-  <body>
-    <div>
-    <a-scene>
-      <!-- <a-entity raycaster="objects: .clickable" cursor="rayOrigin: mouse"></a-entity> -->
-      <!-- <a-assets>
-        <audio id="sound1" src="data/sound1.mp3"></audio>
-        <audio id="sound2" src="data/sound2.mp3"></audio>
-      </a-assets> -->
-      <a-assets>
-        <img id="b4" src="{{site.url}}/assets/cubes/4.png">
-        <img id="b0" src="{{site.url}}/assets/cubes/0.png">
-        <img id="b42" src="{{site.url}}/assets/cubes/42.png">
-      </a-assets>
-      <a-entity id="rig"  movement-controls position="8 1.6 10" rotation ="10 15 0">
-        <a-entity id="camera" twoway-motion="nonMobileLoad: false; speed: 200; threshold: -30" camera position="0 0 0"look-controls wasd-controls="acceleration:200">
-          <!-- <a-entity cursor="rayOrigin: mouse"></a-entity> -->
-        </a-entity>
-      </a-entity>
-      <a-plane static-body color="pink" height="10" width="30" rotation="-90 0 0" position="0 0 0"></a-plane>
-      <!-- <a-sphere dynamic-body color="tomato" position = "2 1.6 -1"></a-sphere> -->
-      <!-- <a-sphere dynamic-body color="pink" position = "0 4 0.1"></a-sphere> -->
-      <a-box scale="6 6 6" dynamic-body position= "-4 10 0" material="src:#b4; transparent:true; opacity:0.8"></a-box>
-      <a-box scale="6 6 6" dynamic-body position= "4 12 0" material="src:#b0; transparent:true; opacity:0.8"></a-box>
-      <a-box scale="6 6 6" dynamic-body position= "8 6 0" material="src:#b42; transparent:true; opacity:0.8"></a-box>
-    </a-scene>  </div>
-  </body>
-</html>
+<div>
+<a-scene>
+  <!-- <a-entity raycaster="objects: .clickable" cursor="rayOrigin: mouse"></a-entity> -->
+  <!-- <a-assets>
+    <audio id="sound1" src="data/sound1.mp3"></audio>
+    <audio id="sound2" src="data/sound2.mp3"></audio>
+  </a-assets> -->
+  <a-assets>
+    <img id="b4" src="/assets/cubes/4.png">
+    <img id="b0" src="/assets/cubes/0.png">
+    <img id="b42" src="/assets/cubes/42.png">
+  </a-assets>
+  <a-entity id="rig"  movement-controls position="8 1.6 10" rotation ="10 15 0">
+    <a-entity id="camera" twoway-motion="nonMobileLoad: false; speed: 200; threshold: -30" camera position="0 0 0"look-controls wasd-controls="acceleration:200">
+      <!-- <a-entity cursor="rayOrigin: mouse"></a-entity> -->
+    </a-entity>
+  </a-entity>
+  <a-plane static-body color="pink" height="10" width="30" rotation="-90 0 0" position="0 0 0"></a-plane>
+  <!-- <a-sphere dynamic-body color="tomato" position = "2 1.6 -1"></a-sphere> -->
+  <!-- <a-sphere dynamic-body color="pink" position = "0 4 0.1"></a-sphere> -->
+  <a-box scale="6 6 6" dynamic-body position= "-4 10 0" material="src:#b4; transparent:true; opacity:0.8"></a-box>
+  <a-box scale="6 6 6" dynamic-body position= "4 12 0" material="src:#b0; transparent:true; opacity:0.8"></a-box>
+  <a-box scale="6 6 6" dynamic-body position= "8 6 0" material="src:#b42; transparent:true; opacity:0.8"></a-box>
+</a-scene>
+</div>
