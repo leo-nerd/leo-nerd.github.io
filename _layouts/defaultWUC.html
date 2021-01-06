@@ -3,7 +3,14 @@
 
 <head>
     <meta charset='utf-8'>
-
+    <title>
+        {% if page.title %}
+            {{ page.title }}
+        {% else %} 
+            {{ site.title }} &mdash; {{ site.description }}
+        {% endif %}
+    </title>
+    
     <meta name='robots' content='index,follow'>
     <meta name='revisit-after' content='1 days'>
 
