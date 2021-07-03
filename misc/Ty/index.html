@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang='{{ site.language }}'>
+
+<head>
+    <script src="https://unpkg.com/p5@1.0.0/lib/p5.min.js"></script>
+</head>
+
+<body>
+<script>
+    const numImg = 37; // change as needed
+    function setup() {
+      createCanvas(800, 600);
+      background(255);
+      drawImg();
+    }
+
+    function draw() {
+    }
+
+    function drawImg(){
+        let img1Index = floor(random(numImg));
+        let img2Index = floor(random(numImg));
+
+        loadImage("data/" + img1Index + ".png", img1 => {
+            img1.resize(width/2, height);
+            image(img1, 0, 0);
+        });
+        loadImage("data/" + img2Index + ".png", img2 => {
+            img2.resize(width/2, height);
+            image(img2, width/2, 0);
+        });
+    }
+
+    function keyPressed() {
+        if (keyCode === ENTER) {
+            background(255);
+            drawImg();
+        }
+    }
+</script>
+</body>
