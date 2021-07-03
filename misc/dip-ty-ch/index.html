@@ -18,8 +18,8 @@
     }
 
     function drawImg(){
-        let img1Index = floor(random(numImg));
-        let img2Index = floor(random(numImg));
+        let img1Index = floor(random(numImg)+1);
+        let img2Index = floor(random(numImg)+1);
 
         loadImage("data/" + img1Index + ".png", img1 => {
             img1.resize(width/2, height);
