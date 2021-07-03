@@ -31,11 +31,10 @@
         });
     }
 
-    function keyPressed() {
-        if (keyCode === ENTER) {
-            background(255);
-            drawImg();
-        }
+    function mousePressed() {
+        background(255);
+        drawImg();
+        return false;
     }
 </script>
 </body>
