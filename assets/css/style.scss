@@ -448,6 +448,13 @@ article {
 
     h2 { @extend p; }
 
+    ol, ul {
+        @extend p;    
+        list-style: auto;
+        list-style-position: inside;
+    }
+
+
     .categories {
         color: $color-4;
         text-align: right;
