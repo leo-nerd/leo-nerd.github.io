@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  Leslie Pavilion
-image: "/assets/projects/leslie/leslie_1_s.jpg"
+heroimage: "/assets/projects/leslie/leslie_1_s.jpg"
+mainimage: "/assets/projects/leslie/leslie_1.jpg"
 categories: [Max/MSP]
 placedate: "Amsterdam, 2015"
 hardware: Custom wood reflector and steerable line-array loudspeaker assemblies, computer
@@ -22,7 +23,6 @@ description: Three-dimensional sound sculpture
 <div class="project-media">
 <div class="video-container"><iframe src="https://cdnapisec.kaltura.com/p/529921/sp/52992100/embedIframeJs/uiconf_id/38407421/partner_id/529921?iframeembed=true&playerId=kVideoTarget&entry_id=1_w9ktmbvr&flashvars[streamerType]=auto&[autoPlay]=false" width="100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="fullscreen *; encrypted-media *" frameborder="0"></iframe></div>
 
-<p><img src="/assets/projects/leslie/leslie_1.jpg"></p>
 <p><img src="/assets/projects/leslie/leslie_2.jpg"></p>
 <p><img src="/assets/projects/leslie/leslie_3.jpg"></p>
 </div>

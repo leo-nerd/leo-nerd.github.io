@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  Sounds Of The Future City
-image: "/assets/projects/ch/ch_1_s.jpg"
+heroimage: "/assets/projects/ch/ch_1_s.jpg"
+mainimage: "/assets/projects/ch/ch_1.jpg"
 categories: [Logic]
 placedate: New York, 2018
 hardware: Multichannel audio system, computer
@@ -11,8 +12,10 @@ description: Speculative video piece with multichannel audio
 ---
 
 <div class="project-narrative">
-<p>How might future cities sound like? <i>The Road Ahead: Reimagining Mobility</i> opened at <a href="https://www.cooperhewitt.org/channel/road-ahead/">Cooper Hewitt Museum</a> in December 2018 and featured 40 pieces that explore the potentials of future means of transportation and new relationships with cities that might emerge. Upon entering the third floor gallery, the visitor was greeted by <i>Sounds Of The Future City</i>, a spatial audio and video installation that explored three different scenarios for our future cities, the elements that defined them, and what each might sound like.
-The piece lead to a hands-on family workshop a couple months later where participants were invited to listen to the piece and describe urban sound environments with found objects.</p>
+<p><i>How might future cities sound like?</i></p>
+<p><i>The Road Ahead: Reimagining Mobility</i> opened at <a href="https://www.cooperhewitt.org/channel/road-ahead/">Cooper Hewitt Museum</a> in December 2018 and featured 40 pieces that explore the potentials of future means of transportation and new relationships with cities that might emerge.</p>
+<p>Upon entering the third floor gallery, the visitor was greeted by <i>Sounds Of The Future City</i>, a <b>spatial audio and video installation</b> that explored three different scenarios for our future cities, the elements that defined them, and what each might sound like.</p>
+<p>The piece lead to <b>a hands-on family workshop</b> a couple months later where participants were invited to listen to the piece and describe urban sound environments with found objects.</p>
 
 <p>Designed and produced at Arup in New York, in collaboration with Rachel Abrams, James Francisco, Casey Eckersley, and Chris Pollock among others.</p>
 </div>

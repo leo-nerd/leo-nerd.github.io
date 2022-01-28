@@ -71,7 +71,6 @@ a {
     text-decoration: none;
     // @extend .anim;
     outline: 0;
-
 }
 
 i { font-style: italic; }
@@ -477,6 +476,10 @@ article {
 
     .hardsoft {
         margin-bottom: 0.5em;
+    }
+
+    .backtop {
+        margin-top: 2em;;
     }
 
     .center {

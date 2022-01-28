@@ -1,17 +1,19 @@
 ---
 layout: post
 title:  großer Lauscher
-image: "/assets/projects/gl/gl_1_s.jpg"
+heroimage: "/assets/projects/gl/gl_1_s.jpg"
+mainimage: "/assets/projects/gl/gl_1.jpg"
 categories: [Max/MSP]
 placedate: "New York, 2017"
 hardware: Multichannel audio system, computer
 software: Max/MSP + Spat~
 roles: Sound designer, audio system designer
-description: Spatial audio composition
+description: Spatial audio installation
 ---
 
 <div class="project-narrative">
-<p>“großer Lauscher” is German for “big eavesdropper”. This 12-channel ambisonic audio piece by mixed-media artist <a href="https://www.alyssamiserendino.com/" target="blank">Alyssa Miserendino</a> is designed to be experienced in total darkness. It is a spatial audio composition narrating of the encounter between Echo and Narcissus in Ovid’s <i>Metamorphoses</i> (English translation), recorded in the radar dome atop Field Station Berlin, built in the 1960s by the United States National Security Agency. In an adjacent room, visitors can read materials that supported the artist’s research for the piece. It was exhibited for the first time at Knockdown Center in Queens in the summer 2017.
+<p>“Großer Lauscher” is German for “big eavesdropper”. This <b>12-channel ambisonic audio piece</b> by mixed-media artist <a href="https://www.alyssamiserendino.com/" target="blank">Alyssa Miserendino</a> is designed to be experienced in total darkness.</p>
+<p>It is a spatial audio composition narrating of the encounter between Echo and Narcissus in Ovid’s <i>Metamorphoses</i> (English translation), recorded in the radar dome atop Field Station Berlin, built in the 1960s by the United States National Security Agency. In an adjacent room, visitors can read materials that supported the artist’s research for the piece. It was exhibited for the first time at Knockdown Center in Queens in the summer of 2017.
 </p>
 </div>
 
@@ -22,7 +24,6 @@ description: Spatial audio composition
 
 <div class="video-container"><iframe title="vimeo-player" src="https://player.vimeo.com/video/229271918" width="100%" frameborder="0" allowfullscreen></iframe></div>
 
-<p><img src="/assets/projects/gl/gl_1.jpg"></p>
 <p><img src="/assets/projects/gl/gl_2.jpg"></p>
 <p class="inline-descr">Photos: Alyssa Miserendino, Arup</p>
 </div>

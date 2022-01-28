@@ -11,12 +11,16 @@ layout: default
 
             <p class="placedate">{{page.placedate}}</p>
             <h2 class="description">{{page.description}}</h2>
+            {% if page.mainimagelink %}
+                <h3 class="mainimage"><a style="text-decoration: none" href={{page.mainimagelink}} target="blank"><img src={{page.mainimage}}></a><p class="inline-descr">{{page.imagecredits}}</h3>
+            {% else %}
+                <h3 class="mainimage"><img src={{page.mainimage}}><p class="inline-descr">{{page.imagecredits}}</h3>
+            {% endif %}
 
             {{ content }}
 
-    		<p><a href="#top">Back to the top</a></p>
+    		<!-- <p class="backtop"><a href="#top">^ Back to the top</a></p> -->
             <!-- <p class="top"><small><a href="#top">[top]</a></small></p> -->
         </article>
     </div>
 </div>
-

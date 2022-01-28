@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  Street Score
-image: "/assets/projects/streetscore/streetscore_3_s.jpg"
+heroimage: "/assets/projects/streetscore/streetscore_3_s.jpg"
+mainimage: "/assets/projects/streetscore/streetscore_3.jpg"
+imagecredits: "Photos: Alexandre Parnet"
 categories: [Logic, Max/MSP]
 placedate: "Lyon, 2013"
 hardware: Custom motorized fabric fixtures, LED lighting fixtures, multichannel audio system, computer
@@ -21,7 +23,6 @@ description: Site-specific light and sound activation of Passage Thiaffait
 <div class="project-media">
 <iframe width="100%" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/126324397&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-<p><img src="/assets/projects/streetscore/streetscore_3.jpg"></p>
 <p><img src="/assets/projects/streetscore/streetscore_1.jpg"></p>
 <p><img src="/assets/projects/streetscore/streetscore_2.jpg"></p>
 <p><img src="/assets/projects/streetscore/streetscore_4.jpg"></p>
