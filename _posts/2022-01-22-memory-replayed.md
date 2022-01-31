@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Memory, Replayed
-heroimage: "/assets/projects/memreplayed/memreplayed_1.png"
-mainimage: "/assets/projects/memreplayed/memreplayed_1.png"
+heroimage: "/assets/projects/memreplayed/memreplayed_1.jpg"
+mainimage: "/assets/projects/memreplayed/memreplayed_1_s.jpg"
 placedate: London, 2021
 hardware:
 software: 
