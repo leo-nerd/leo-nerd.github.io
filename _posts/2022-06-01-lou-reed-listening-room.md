@@ -42,6 +42,7 @@ description: Multimedia listening space
 
 <div class="project-media">
 <p><img src="/assets/projects/loureed/LR2_1500px.jpg"></p>
+<p><img src="/assets/projects/loureed/IMG_1124_1500px.jpg"></p>
 <p><img src="/assets/projects/loureed/IMG_0300_1500px.jpg"></p>
 <p><img src="/assets/projects/loureed/Lou Reed NYPL-15_1500px.jpg"></p>
 <p class="inline-descr">Photos: Hazel Lee, Arup, Ethan Bourdeau, Xena Petkanas</p>
