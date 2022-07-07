@@ -9,7 +9,7 @@ placedate: New York & San Francisco, 2018
 hardware: Multichannel audio system, projection system, computer
 software: Spat Revolution
 roles: Sound designer
-description: Immersive audio compositions
+description: Spatial audio compositions
 ---
 
 <div class="project-narrative">
