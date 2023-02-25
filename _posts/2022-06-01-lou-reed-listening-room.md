@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Lou Reed Listening Room
-heroimage: "/assets/projects/loureed/IMG_0302_600px.jpg"
-mainimage: "/assets/projects/loureed/IMG_0302_1500px.jpg"
+heroimage: "/assets/projects/loureed/LRLR_©Max_Touhey_600.jpg"
+mainimage: "/assets/projects/loureed/LRLR_©Max_Touhey_1500.jpg"
 mainimagelink: "https://www.nypl.org/events/exhibitions/lou-reed"
 placedate: New York, 2022
 hardware:
@@ -45,5 +45,5 @@ description: Multimedia listening space
 <p><img src="/assets/projects/loureed/IMG_1124_1500px.jpg"></p>
 <p><img src="/assets/projects/loureed/IMG_0300_1500px.jpg"></p>
 <p><img src="/assets/projects/loureed/Lou Reed NYPL-15_1500px.jpg"></p>
-<p class="inline-descr">Photos: Hazel Lee, Arup, Ethan Bourdeau, Xena Petkanas</p>
+<p class="inline-descr">Photos: Max Touhey, New York Public Library for the Performing Arts, Ethan Bourdeau, Hazel Lee, Xena Petkanas, Arup</p>
 </div>
