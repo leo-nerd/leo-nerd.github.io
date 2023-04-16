@@ -3,7 +3,7 @@ layout: post
 title:  Public Records
 heroimage: "https://cdn.sanity.io/images/kzpsv6ax/production/f23fb2b04096a425160f513c3b21be1a3a8a0f7a-4000x2669.jpg?w=800&q=100"
 mainimage: "https://cdn.sanity.io/images/kzpsv6ax/production/f23fb2b04096a425160f513c3b21be1a3a8a0f7a-4000x2669.jpg?w=1800&q=100"
-mainimagelink: "https://www.nypl.org/events/exhibitions/lou-reed"
+mainimagelink: "https://publicrecords.nyc/"
 placedate: New York, 2019
 hardware:
 software:
@@ -13,7 +13,7 @@ description: Night club
 <div class="project-narrative">
 
 <p>
-	After its opening in 2019 <b>Public Records</b> in Brooklyn quickly became one of the most sought-after locations for audiophiles and clubbers in the city.
+	After its opening in 2019 <a href="https://publicrecords.nyc/">Public Records</a> in Brooklyn quickly became one of the most sought-after locations for audiophiles and clubbers in the city.
 </p>
 	
 <p>
