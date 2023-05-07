@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Public Records
-heroimage: "https://cdn.sanity.io/images/kzpsv6ax/production/f23fb2b04096a425160f513c3b21be1a3a8a0f7a-4000x2669.jpg?w=800&q=100"
-mainimage: "https://cdn.sanity.io/images/kzpsv6ax/production/f23fb2b04096a425160f513c3b21be1a3a8a0f7a-4000x2669.jpg?w=1800&q=100"
+heroimage: "https://dice-media.imgix.net/attachments/2020-01-14/6937889b-b03b-4690-b960-67e7e35579d1.jpg"
+mainimage: "https://dice-media.imgix.net/attachments/2020-01-14/6937889b-b03b-4690-b960-67e7e35579d1.jpg"
 mainimagelink: "https://publicrecords.nyc/"
 placedate: New York, 2019
 hardware:
