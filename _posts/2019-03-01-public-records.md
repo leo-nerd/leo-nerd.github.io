@@ -17,11 +17,11 @@ description: Night club
 </p>
 	
 <p>
-	The <b>Sound Room</b>, one of the two spaces in the venue at the time of the opening, was designed for optimal acoustics and to live up to its name. It features a high-end four-point sound system (originally built by Global Audio Systems for the nearby club Analog) and custom-fabricated wood-based acoustic finishes on the walls and ceiling.
+	The <b>Sound Room</b>, is the central listening space in the venue. It features a high-end four-point sound system (originally built by Global Audio Systems for the nearby club Analog) and custom-fabricated wood-based acoustic finishes on the walls and ceiling.
 </p>
 
 <p>
-	I participated in the acoustic design of the Sound Room by performing the initial acoustic measurements and acoustic study, part of the Acoustics team at Arup (with acousticians Helen Searle and Terence Caulkins). We provided recommendations for acoustic finishes, sound isolation, and bass control in the public and DJ areas.
+	I participated in the acoustic design of the Sound Room by performing the initial acoustic measurements and acoustic study, part of the Acoustics team at Arup (with acousticians Helen Searle and Terence Caulkins). We provided recommendations for acoustic finishes, sound isolation, and bass control in the public and DJ areas, allowing it to live up to its name.
 </p>
 
 </div>
