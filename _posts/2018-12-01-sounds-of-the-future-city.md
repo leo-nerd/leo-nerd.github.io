@@ -5,7 +5,7 @@ heroimage: "/assets/projects/ch/ch_1_s.jpg"
 mainimage: "/assets/projects/ch/ch_1.jpg"
 categories: [Logic]
 placedate: New York, 2018
-hardware: Multichannel audio system, computer
+materials: Multichannel audio system
 software: Spat Revolution, Max/MSP, Logic, Massive
 roles: Sound designer, audio system designer, creative developer, installation coordinator
 description: Speculative video piece with multichannel audio

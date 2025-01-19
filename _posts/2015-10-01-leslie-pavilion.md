@@ -5,7 +5,7 @@ heroimage: "/assets/projects/leslie/leslie_1_s.jpg"
 mainimage: "/assets/projects/leslie/leslie_1.jpg"
 categories: [Max/MSP]
 placedate: "Amsterdam, 2015"
-hardware: Custom wood reflector and steerable line-array loudspeaker assemblies, computer
+materials: Custom wood reflector and steerable line-array loudspeaker assemblies, computer
 software: Max/MSP
 roles: Sound designer, audio system designer, fabricator
 description: Three-dimensional sound sculpture

@@ -5,7 +5,7 @@ heroimage: "/assets/projects/streetscore/streetscore_3_s.jpg"
 mainimage: "/assets/projects/streetscore/streetscore_3.jpg"
 categories: [Logic, Max/MSP]
 placedate: "Lyon, 2013"
-hardware: Custom motorized fabric fixtures, LED lighting fixtures, multichannel audio system, computer
+materials: Custom motorized fabric fixtures, LED lighting fixtures, multichannel audio system, computer
 software: Logic, Pure Data
 roles: Sound designer, audio system designer, design engineer, installation coordinator
 description: Mixed-media architectural activation

@@ -4,7 +4,7 @@ title:  Memory, Replayed
 heroimage: "/assets/projects/memreplayed/memreplayed_1.jpg"
 mainimage: "/assets/projects/memreplayed/memreplayed_1_s.jpg"
 placedate: London, 2021
-hardware:
+materials:
 software: 
 roles: Sound designer
 description: Interactive audiovisual installation
@@ -28,5 +28,8 @@ In the replay phase they can observe the sequence they activated and re-live the
 <p>
 	Its first implementation was made public in November 2021 at St Saviours Church (<a href="http://www.florencetrust.net/">The Florence Trust</a>) in London.
 </p>
+
+<div class="project-specifics">
+</div>
 
 </div>

@@ -5,9 +5,9 @@ heroimage: "/assets/projects/loureed/LPA_2022_12_14_©Jonathan_Blanc_600.jpg"
 mainimage: "/assets/projects/loureed/LPA_2022_12_14_©Jonathan_Blanc_1500.jpg"
 mainimagelink: "https://www.nypl.org/events/exhibitions/lou-reed"
 placedate: New York, 2022
-hardware:
+materials:
 software:
-roles: Technical producer, visual content designer and programmer, audiovisual systems designer
+roles: Producer, creative technologist, audiovisual systems designer
 description: Multimedia listening space
 ---
 
@@ -18,11 +18,11 @@ description: Multimedia listening space
 </p>
 	
 <p>
-	The <b>Lou Reed Listening Room</b>, hosted in the <b>Vincent Astor Gallery</b>, is a large listening space dedicated to experiencing various sound works by Lou Reed in their original intended audio formats. It features a <b>13.4 sound system</b> able to play back a variety of audio formats including mono, stereo, quadraphonic, and full-sphere ambisonics. The audio and visual content curation is refreshed monthly.
+	The <b>Lou Reed Listening Room</b>, hosted in the <b>Vincent Astor Gallery</b>, was a large listening space dedicated to experiencing various sound works by Lou Reed in their original intended audio formats. It features a <b>13.4 sound system</b> able to play back a variety of audio formats including mono, stereo, quadraphonic, and full-sphere ambisonics. The curated audio and visual program was updated twice during the course of the exhibit.
 </p>
 
 <p>
-	I led the production of the technical systems for the piece, and the design and programming of its video systems and content.
+	I led the production of the technical systems for the piece, and the design and programming of its media content.
 </p>
 
 <p style="margin-bottom: 0em; text-decoration: underline;">
@@ -38,6 +38,9 @@ description: Multimedia listening space
 	</ul>
 </p>
 
+</div>
+
+<div class="project-specifics">
 </div>
 
 <div class="project-media">

@@ -5,7 +5,7 @@ heroimage: "/assets/projects/equipmentroom/Equipment-Room-Bar-and-Seating-Nick-S
 mainimage: "/assets/projects/equipmentroom/Equipment-Room-Bar-and-Seating-Nick-Simonite-Austin-RIOS.jpg"
 mainimagelink: "https://www.nypl.org/events/exhibitions/lou-reed"
 placedate: Austin, 2023
-hardware:
+materials:
 software:
 roles: Acoustic consultant
 description: Hi-Fi listening bar
@@ -20,6 +20,9 @@ description: Hi-Fi listening bar
 <p>
 	I worked with Ryan Biziorek at Arup and John Hallock at RIOS to help craft the best listening conditions and patron sonic experience: layout of loudspeakers, choice and placement of acoustic finishes, sound isolation, and AV infrastructure for special events.
 </p>
+</div>
+
+<div class="project-specifics">
 </div>
 
 <div class="project-media">

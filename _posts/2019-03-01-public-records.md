@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  Public Records
-heroimage: "https://dice-media.imgix.net/attachments/2020-01-14/6937889b-b03b-4690-b960-67e7e35579d1.jpg"
-mainimage: "https://dice-media.imgix.net/attachments/2020-01-14/6937889b-b03b-4690-b960-67e7e35579d1.jpg"
+heroimage: "/assets/projects/publicrecords/PR_hero.jpg"
+mainimage: "/assets/projects/publicrecords/publicrecords_1_©Public_Records.jpg"
 mainimagelink: "https://publicrecords.nyc/"
 placedate: New York, 2019
-hardware:
+materials:
 software:
 roles: Acoustic designer
 description: Night club

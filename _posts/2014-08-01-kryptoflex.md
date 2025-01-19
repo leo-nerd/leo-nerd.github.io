@@ -5,7 +5,7 @@ heroimage: "/assets/projects/kryptoflex/krypto_1_s.jpg"
 mainimage: "/assets/projects/kryptoflex/krypto_1.jpg"
 categories: [Processing]
 placedate: "New York, 2014"
-hardware: MIDI controllers, custom LED fixture, Arduino, computer
+materials: MIDI controllers, custom LED fixture, Arduino, computer
 software: Ableton Live, Processing
 roles: Sound designer, performer
 description: Generative audio and video performance

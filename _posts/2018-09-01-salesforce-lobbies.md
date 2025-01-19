@@ -6,7 +6,7 @@ mainimage: "/assets/projects/sf/Picture1.jpg"
 imagecredits: "Photo: Arup"
 categories: [Logic]
 placedate: New York & San Francisco, 2018
-hardware: Multichannel audio system, projection system, computer
+materials: Multichannel audio system, projection system
 software: Spat Revolution
 roles: Sound designer
 description: Spatial audio compositions

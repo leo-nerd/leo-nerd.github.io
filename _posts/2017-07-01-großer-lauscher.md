@@ -5,7 +5,7 @@ heroimage: "/assets/projects/gl/gl_1_s.jpg"
 mainimage: "/assets/projects/gl/gl_1.jpg"
 categories: [Max/MSP]
 placedate: "New York, 2017"
-hardware: Multichannel audio system, computer
+materials: Multichannel audio system, computer
 software: Max/MSP + Spat~
 roles: Sound designer, audio system designer
 description: Spatial audio installation

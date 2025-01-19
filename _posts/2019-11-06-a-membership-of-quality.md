@@ -5,9 +5,9 @@ heroimage: "/assets/projects/a30/a30_3_s.jpg"
 mainimage: "/assets/projects/a30/a30_3.jpg"
 categories: [Processing]
 placedate: New York, 2019
-hardware: Projection system, computer
+materials: Projection system, computer
 software: Processing, Python
-roles: Creative developer
+roles: Creative technologist, developer
 description: Data-driven generative video projection
 ---
 

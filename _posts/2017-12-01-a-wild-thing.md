@@ -5,7 +5,7 @@ heroimage: "/assets/projects/mvs/Picture1_s.jpg"
 mainimage: "/assets/projects/mvs/Picture1.jpg"
 categories: [Max/MSP]
 placedate: "Miami, 2017"
-hardware: Hyperdirectional loudspeakers, surface audio transducers, cameras, Raspberry Pis, computer
+materials: Hyperdirectional loudspeakers, surface audio transducers, cameras, Raspberry Pis, computer
 software: Python, Max/MSP
 roles: Audio system designer, video tracking system designer, sound designer, creative developer
 description: Audio-augmented home replica

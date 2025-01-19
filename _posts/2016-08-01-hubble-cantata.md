@@ -5,7 +5,7 @@ heroimage: "/assets/projects/hubble/hubble_1_s.jpg"
 mainimage: "/assets/projects/hubble/hubble_1.jpg"
 categories: [Max/MSP]
 placedate: "New York, 2016"
-hardware: Multichannel audio system, computer
+materials: Multichannel audio system, computer
 software: Max/MSP + Spat~, Logic, Massive
 roles: Sound designer
 description: Multimedia operatic performance
