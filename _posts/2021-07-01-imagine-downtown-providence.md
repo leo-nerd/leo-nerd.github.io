@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Imagine Downtown Providence
-heroimage: "/assets/projects/uvdpvd/hero-small.png"
-mainimage: "/assets/projects/uvdpvd/hero.png"
+heroimage: "/assets/projects/uvdpvd/hero-small.jpg"
+mainimage: "/assets/projects/uvdpvd/hero.jpg"
 mainimagelink: "https://virtualengage.arup.com/imaginedowntownPVD2/"
 placedate: Providence, 2021
 materials:
