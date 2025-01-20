@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Public Records
-heroimage: "/assets/projects/publicrecords/PR_hero.jpg"
-mainimage: "/assets/projects/publicrecords/publicrecords_1_©Public_Records.jpg"
+heroimage: "/assets/projects/publicrecords/PR_hero_s.jpg"
+mainimage: "/assets/projects/publicrecords/PR_hero.jpg"
 mainimagelink: "https://publicrecords.nyc/"
 placedate: New York, 2019
 materials:
