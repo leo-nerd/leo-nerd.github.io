@@ -8,12 +8,12 @@ placedate: New York, 2019
 materials: Digital camera, MIDI controller, computer, performance surround audio and video system
 software: Max/MSP + Jitter, Processing, After Effects, Enscape
 roles: Creative developer, animator, video editor, live video operator, producer
-description: Music and dance performance with live generative visuals and surround sound
+description: Generative multimedia performance
 ---
 
 <div class="project-narrative">
-<p>Arup was commissioned by the <a href="http://performa19.org/tickets/david-j">2019 Performa biennial</a> in New York to produce a <b>live immersive audio and video performance</b> featuring David J (bass, Bauhaus), Rona Rougeheart and Curse Mackey (keyboards, computer, drums, vocals), Heather Paauwe (violin), and Vangeline (butoh dance) for an <b>hour-long improvised piece.</b>. It is an homage to poet Rene Halkett and a celebration of the 100 anniversary of the birth of the Bauhaus movement.</p>
-<p>I designed video content and performed live video projection on custom software for the closing night of the biennial at <a href="https://www.elsewherebrooklyn.com/events/2019-11-24-david-j-of-bauhaus-and-comrades-perform-for-performa-19-grand-finale/">Elsewhere</a> in Brooklyn. It was designed, produced, and live-engineered in collaboration with Alex Mayo, Joseph Digerness, Joe Chapman, Devin Bean, Brendan Smith and Raj Patel at Arup.</p>
+<p>Arup was commissioned by the <a href="http://performa19.org/tickets/david-j">2019 Performa biennial</a> in New York to produce and perform the generative and immersive media to support this music performance by David J (bass, Bauhaus), Rona Rougeheart and Curse Mackey (keyboards, computer, drums, vocals), Heather Paauwe (violin), and Vangeline (butoh dance) for an hour-long improvised piece with generative visuals and surround audio. It is an homage to poet Rene Halkett and a celebration of the 100 anniversary of the birth of the Bauhaus movement.</p>
+<p>I designed and performed the video components on custom-designed software for the closing night of the biennial at <a href="https://www.elsewherebrooklyn.com/events/2019-11-24-david-j-of-bauhaus-and-comrades-perform-for-performa-19-grand-finale/">Elsewhere</a> in Brooklyn. It was designed, produced, and live-engineered in collaboration with Alex Mayo, Joseph Digerness, Joe Chapman, Devin Bean, Brendan Smith and Raj Patel at Arup.</p>
 </div>
 
 {% include project-specifics.html %}
