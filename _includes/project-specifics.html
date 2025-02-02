@@ -1,4 +1,8 @@
 <div class="project-specifics">
-<p><b>Materials:</b> {{page.materials}}</p>
+{% if page.materials %}
+    <p><b>Materials:</b> {{page.materials}}</p>
+{% endif %}
+{% if page.software %}
 <p><b>Software:</b> {{page.software}}</p>
+{% endif %}
 </div>
